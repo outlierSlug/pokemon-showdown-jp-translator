@@ -9,3 +9,6 @@
 ## Notes
 
 Currently, only Pokemon names, moves, abilities, and items are supported.
+
+## Preview
+![Browser View](preview.png)
